@@ -9,6 +9,9 @@ body {
     flex-direction: row;
     flex: auto;
   }
+  .logo {
+    font-size: 2rem;
+  }
   
   article {
     flex: 2;
